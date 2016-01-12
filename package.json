@@ -12,6 +12,8 @@
   },
   "author": "Yating Wang <atinjosan@yahoo.com>",
   "dependencies": {
-    "express": "^4.12.4"
+    "express": "^4.12.4",
+    "accepts": "^1.3.0"
+
   }
 }

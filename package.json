@@ -1,7 +1,7 @@
 {
   "name": "request-header-parser",
   "version": "1.0.0",
-  "description": "A header parser api that returns the ipaddress, language, software",
+  "description": "A header parser api that returns the ipaddress, language, operating system for the requester's brower",
   "main": "server.js",
   "repository": {
     "type": "git",

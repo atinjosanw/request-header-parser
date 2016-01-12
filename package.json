@@ -1,0 +1,17 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "A header parser api that returns the ipaddress, language, software",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atinjosanw/request-header-parser.git"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Yating Wang <atinjosan@yahoo.com>",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
